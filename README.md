@@ -1,2 +1,0 @@
-# foodchoice
-Created with CodeSandbox
